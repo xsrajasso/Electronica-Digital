@@ -1,0 +1,11 @@
+JDF B
+// Created by Version 2.0 
+PROJECT af3
+DESIGN af3 Normal
+DEVKIT GAL22V10D-15QP
+ENTRY ABEL/Schematic
+MODULE secuenci.abl
+MODSTYLE secuencialed Normal
+SYNTHESIS_TOOL Synplify
+SIMULATOR_TOOL ActiveHDL
+TOPMODULE secuencialed

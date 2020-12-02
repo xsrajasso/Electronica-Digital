@@ -1,0 +1,13 @@
+L0		o
+L1		o
+L2		o
+L3		o
+L4		o
+L5		o
+reset		i
+paro		i
+clk		i
+q0		o
+q1		o
+q2		o
+q3		o
